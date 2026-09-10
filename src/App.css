@@ -145,3 +145,6 @@
     width: 90%; /* Adjust as needed */
   }
 }
+
+.landing_content { margin-left: 40px !important; }
+.landing-page { overflow-x: hidden; }
